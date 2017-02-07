@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE messages SYSTEM "messages.dtd">-->
+<messages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation='messages.xsd'>
+
+    <message>
+    <date>11/16/2015</date>
+    <to>Ram</to>
+    <from>Sameer</from>
+    <heading>Standup Meeting</heading>
+    <body>We will be having Standup Meeting Tomorrow at 10 AM. Be at ground on time.</body>
+    <sender company="Microsoft"/>
+    </message>
+
+    <message>
+    <date>11/16/2015</date>
+    <to>Sameer</to>
+    <from>Ram</from>
+    <heading>Re: Standup Meeting</heading>
+    <body>Ok. I will be there.</body>
+    <sender company="Microsoft"/>
+    </message>
+
+    <message>
+    <date>11/17/2015</date>
+    <to>Ram</to>
+    <from>Sameer</from>
+    <heading>Everest Project Deadline</heading>
+    <body>We have to complete the everest project by 12/10/2015</body>
+    <sender company="Microsoft"/>
+    </message>
+
+</messages>
+
+

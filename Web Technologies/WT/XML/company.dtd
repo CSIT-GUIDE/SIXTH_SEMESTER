@@ -1,0 +1,10 @@
+<!DOCTYPE company
+[
+<!ELEMENT company (name, location, contact, description, owner, pan)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT owner (#PCDATA)>
+<!ELEMENT pan (#PCDATA)>
+]>

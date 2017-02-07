@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE note SYSTEM "company.dtd">
+<company>
+	<name>Deerwalk</name>
+	<location>Sifal, Kathmandu</location>
+	<contact>9807368806</contact>
+	<description>Works with US health care data</description>
+	<owner>Rudra Pandey</owner>
+	<pan>12345</pan>
+
+	<name>Verisk</name>
+	<location>Hattisar, Kathmandu</location>
+	<contact>980735555</contact>
+	<description>Works with US health care data.</description>
+	<owner>Bob Jordan</owner>
+	<pan>678910</pan>
+</company>

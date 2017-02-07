@@ -1,0 +1,8 @@
+Private Sub CommandButton1_Click()
+    Sum = Int(UserForm1.TextBox1.Text) + Int(UserForm1.TextBox2.Text)
+    UserForm1.TextBox3.Text = Sum
+    Set CurrentChart = Sheets("Sheet1").ChartObjects(1).Chart
+    Fname = ThisWorkbook.Path & "\temp.gif"
+    CurrentChart.Export Filename:=Fname, FilterName:="GIF"
+    UserForm1.Image1.Picture = LoadPicture(Fname)
+End Sub

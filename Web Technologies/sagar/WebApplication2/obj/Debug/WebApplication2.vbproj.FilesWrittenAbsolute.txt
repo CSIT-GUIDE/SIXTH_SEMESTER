@@ -1,0 +1,3 @@
+/media/linuxsagar/NEW/sagar/WebApplication2/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.vb
+/media/linuxsagar/NEW/sagar/WebApplication2/obj/Debug/WebApplication2.Resources.resources
+/media/linuxsagar/NEW/sagar/WebApplication2/obj/Debug/WebApplication2.dll

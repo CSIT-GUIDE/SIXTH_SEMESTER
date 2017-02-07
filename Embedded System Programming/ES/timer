@@ -1,0 +1,44 @@
+                             MVI A,00
+                             
+START : 
+                             STA C030
+                             
+                             
+                             CALL DELAY
+                             
+                             
+LOOP : 
+                             INR A
+                             DAA
+                             JMP START
+                             
+                             
+                             MVI B,FF
+                             
+DELAY : 
+                             DCR B
+                             JNZ DELAY
+                             
+                             
+                             MVI C,FF
+                             
+DELAY2 : 
+                             DCR C
+                             JNZ DELAY2
+                             
+                             
+                             MVI D,FF
+                             
+DELAY3 : 
+                             DCR D
+                             JNZ DELAY3
+                             
+                             
+                             MVI E,FF
+                             
+DELAY4 : 
+                             DCR E
+                             JNZ DELAY4
+                             
+                             
+                             RET

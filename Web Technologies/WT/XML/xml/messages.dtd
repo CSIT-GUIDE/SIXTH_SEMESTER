@@ -1,0 +1,10 @@
+<!ELEMENT messages (message+)>
+<!ELEMENT message (date,to,from,heading,body,sender)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT sender EMPTY>
+<!ATTLIST sender company CDATA #FIXED "Microsoft">
+

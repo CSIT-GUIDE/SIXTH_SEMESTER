@@ -1,0 +1,17 @@
+                             MVI D,14
+                             
+                             LXI H,C030
+                             
+                             
+                             LXI B,C050
+                             
+                             
+LOOP : 
+                             LDAX B
+                             MOV M,A
+                             INX B
+                             INX H
+                             DCR D
+                             JNZ LOOP
+                             
+                             

@@ -1,0 +1,43 @@
+http://searchenterpriselinux.techtarget.com/definition/embedded-system
+
+An embedded system is some combination of computer hardware and software, either fixed in capability or programmable, that is specifically designed for a particular function. Industrial machines, automobiles, medical equipment, cameras, household appliances, airplanes, vending machines and toys (as well as the more obvious cellular phone and PDA) are among the myriad possible hosts of an embedded system. Embedded systems that are programmable are provided with programming interfaces, and embedded systems programming is a specialized occupation.
+
+
+https://en.wikipedia.org/wiki/Embedded_system
+
+An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints.[1][2] It is embedded as part of a complete device often including hardware and mechanical parts. Embedded systems control many devices in common use today.[3]
+
+
+
+http://www.pcmag.com/encyclopedia/term/42554/embedded-system
+
+Any electronic system that uses a computer chip, but that is not a general-purpose workstation, desktop or laptop computer. Such systems use microcontrollers (MCUs) or microprocessors (MPUs), or they may use custom-designed chips. Deployed by the billions each year in myriad applications, the embedded systems market uses the lion's share of all the electronic components in the world.
+
+
+
+http://www.rrsg.uct.ac.za/courses/EEE3074W/EmbeddedSystems.html
+
+An embedded system is a single-purpose computer built into a larger system for the purposes of controlling and monitoring the system [1]. A general purpose computer (e.g. a personal computer) is defined not to be an embedded system.
+Examples: cell phones, DSTV decoders, MP3 players, ABS breaking systems, and satellite guidance avionics.
+
+
+
+http://www.webopedia.com/TERM/E/embedded_system.html
+
+A specialized computer system that is part of a larger system or machine. Typically, an embedded system is housed on a single microprocessor board with the programs stored in ROM. Virtually all appliances that have a digital interface -- watches, microwaves, VCRs, cars -- utilize embedded systems. Some embedded systems include an operating system, but many are so specialized that the entire logic can be implemented as a single program.
+
+
+
+http://www.techopedia.com/definition/3636/embedded-system
+
+An embedded system is a dedicated computer system designed for one or two specific functions. This system is embedded as a part of a complete device system that includes hardware, such as electrical and mechanical components. The embedded system is unlike the general-purpose computer, which is engineered to manage a wide range of processing tasks. 
+
+Because an embedded system is engineered to perform certain tasks only, design engineers may optimize size, cost, power consumption, reliability and performance. Embedded systems are typically produced on broad scales and share functionalities across a variety of environments and applications.
+
+Techopedia explains Embedded System
+
+Embedded systems are managed by single or multiple processing cores in the form of microcontrollers or digital signal processors (DSP), field-programmable gate arrays (FPGA), application-specific integrated circuits (ASIC) and gate arrays. These processing components are integrated with components dedicated to handling electric and/or mechanical interfacing. 
+
+An embedded system's key feature is dedication to specific functions that typically require strong general-purpose processors. For example, router and switch systems are embedded systems, whereas a general-purpose computer uses a proper OS for routing functionality. However, embedded routers function more efficiently than OS-based computers for routing functionalities. 
+
+Commercial embedded systems range from digital watches and MP3 players to giant routers and switches. Complexities vary from single processor chips to advanced units with multiple processing chips

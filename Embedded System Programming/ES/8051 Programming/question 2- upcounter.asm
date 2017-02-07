@@ -1,0 +1,9 @@
+MOV A,#0
+
+LOOP: INC A
+	  CALL DELAY
+	  SJMP LOOP
+
+DELAY: MOV R4,#250
+		DJNZ R4,$
+		RET
